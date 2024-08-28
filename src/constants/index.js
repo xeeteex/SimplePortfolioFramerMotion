@@ -43,7 +43,7 @@ export const PROJECTS = [
     title: "Blogging Platform",
     image: project1,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "A platform for creating and publishing blog posts, with features like posting, editing and deleting blogs.",
     technologies: ["HTML", "TailwindCSS", "React.js", "Express", "MongoDB"],
     website: "https://my-blog-page-tau.vercel.app/",
     gitrepo: "https://github.com/xeeteex/BlogPageMR",
